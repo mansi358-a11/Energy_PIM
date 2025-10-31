@@ -1,0 +1,16 @@
+Metric,Value
+read_bandwidth_Bps,34703683
+write_bandwidth_Bps,20894421
+total_bandwidth_Bps,55598104
+bandwidth_utilization_%,0.00868720375
+read_latency_avg_cycles,84.789478
+row_hits,149298
+row_misses,432475
+row_conflicts,12160
+row_hit_rate_%,25.13717877268985
+row_miss_rate_%,72.81545224798083
+row_conflict_rate_%,2.0473689793293186
+avg_queue_length,0.013468
+read_transaction_bytes,94905856
+write_transaction_bytes,57140992
+total_read_requests,370726
